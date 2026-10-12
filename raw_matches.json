@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "id": "bbab0b1a-86f7-48c1-b5fd-ca4c83f45119",
+      "sport": "baseball",
+      "league": "MLB",
+      "home": {
+        "id": "a78273e0-42b3-4d9a-ae90-5bab14a66cef",
+        "name": "Chicago Cubs",
+        "short_name": "CHC"
+      },
+      "away": {
+        "id": "aa8818ee-2e96-48b5-8a26-9d2051f042e2",
+        "name": "Pittsburgh Pirates",
+        "short_name": "PIT"
+      },
+      "kickoff_utc": "2026-09-11T18:20:00.000Z",
+      "status": "finished",
+      "score": {
+        "home": 12,
+        "away": 2
+      },
+      "attendance": 39190,
+      "broadcast": "MLB.TV"
+    },
+    {
+      "id": "77efd0ae-5384-4036-9cbe-f5022975127f",
+      "sport": "baseball",
+      "league": "MLB",
+      "home": {
+        "id": "eae76b45-3ca8-4ff9-b78d-6a3f3380bc7d",
+        "name": "Detroit Tigers",
+        "short_name": "DET"
+      },
+      "away": {
+        "id": "1c30cf53-2fe3-45e4-a29b-6fe6318a43fa",
+        "name": "Colorado Rockies",
+        "short_name": "COL"
+      },
+      "kickoff_utc": "2026-09-11T22:40:00.000Z",
+      "status": "finished",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "attendance": null,
+      "broadcast": "MLB.TV"
+    },
+    {
+      "id": "836ab182-627f-4eeb-b0c7-94148f9c5ff4",
+      "sport": "baseball",
+      "league": "MLB",
+      "home": {
+        "id": "a5ba67b2-9e9b-4222-97d5-e8f8d162878c",
+        "name": "Washington Nationals",
+        "short_name": "WSH"
+      },
+      "away": {
+        "id": "8ce130aa-6848-4ed2-8782-51b1566ed5da",
+        "name": "Los Angeles Angels",
+        "short_name": "LAA"
+      },
+      "kickoff_utc": "2026-09-11T22:45:00.000Z",
+      "status": "finished",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "attendance": null,
+      "broadcast": "MLB.TV"
+    }
+  ],
+  "meta": {
+    "source": "stored",
+    "request_id": "1c254dc7-ceb7-49c8-a3ea-3034a177cd4e"
+  }
+}
